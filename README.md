@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mukul 👋
 
-<!--
-**vkiller28/vkiller28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Telecommunication Engineer  
+🤖 Embedded + AI Developer  
+📍 India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Embedded Intern working on AI + Raspberry Pi projects
+- Interested in Edge AI, Computer Vision, and IoT systems
+- Goal: ML/AI Engineer / Edge AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Embedded: Raspberry Pi, Arduino, STM32
+- AI/ML: OpenCV, TensorFlow Lite, MediaPipe
+- Programming: Python, C, JavaScript
+- Web: Node.js, Angular (basic)
+- Hardware: PCB Design, Sensors, Antenna Design
+
+## 📌 Featured Projects
+- 🔹 Face Recognition Unlock System (Raspberry Pi)
+- 🔹 Mask & Helmet Detection (TFLite)
+- 🔹 Colorectal Polyp Detection using Deep Learning
+- 🔹 Smart IoT Automation Panel
+
+## 📫 Contact
+- Email: mukulmhatre28@gmail.com
+- LinkedIn: (add link)
+
