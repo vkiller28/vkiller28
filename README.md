@@ -23,9 +23,13 @@
 - 🔹 Smart IoT Automation Panel
 
 ## 📫 Contact
-- Email: mukulmhatre28@gmail.com
-- LinkedIn: ((https://www.linkedin.com/in/mukul-mhatre-151b2a207/))
 
-- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vkiller28&show_icons=true&theme=default)
+**Email:** mukulmhatre28@gmail.com  
+**LinkedIn:** [Mukul Mhatre](https://www.linkedin.com/in/mukul-mhatre-151b2a207/)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vkiller28&show_icons=true)
 
