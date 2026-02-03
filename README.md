@@ -31,5 +31,5 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vkiller28&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vkiller28&show_icons=true&cache_seconds=86400)
 
